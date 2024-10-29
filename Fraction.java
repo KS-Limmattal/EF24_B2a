@@ -24,9 +24,7 @@ public class Fraction {
     // }
 
     // public static Fraction add(Fraction f, Fraction g) {
-    //     Fraction sum = new Fraction(f);
-    //     sum.add(g);
-    //     return sum;
+    //     return new Fraction(f.numerator * g.denominator + f.denominator * g.numerator, f.denominator * g.denominator);
     // }
     
     // public boolean equals(Fraction f) {
